@@ -1,5 +1,8 @@
-# Tech-a-Thon-Health_Fit
-## Aim : our aim is to address people about their health problems, majorly about overweight and underweight
+# Tech-a-Thon
+orgainsed by ECE Society of BIT Mesra
+
+## Project_Name : HEALTH FIT
+### Aim : our aim is to address people about their health problems, majorly about overweight and underweight
 
 1. Import packages
 ```
@@ -19,3 +22,4 @@
   
 4. Then we predict the data & write the the data to output file.
 5. At the end, we also analyse our model using confusion matrix.
+### Team Contributors:
