@@ -15,11 +15,15 @@ orgainsed by ECE Society of BIT Mesra
   import numpy as nd
   from sklearn import metrics
 ```
-2. Read data
+2. Read data -
   we read data using csvreader file
-  3. Trained data 
+  3. Trained data - 
   we trained our model using logistic regression through which we also get to know the accuracy of our model.
   
 4. Then we predict the data & write the the data to output file.
 5. At the end, we also analyse our model using confusion matrix.
 ### Team Contributors:
+Anisha Agarwal -
+https://github.com/anishaagarwal2002
+
+Himaangi Moyal -
