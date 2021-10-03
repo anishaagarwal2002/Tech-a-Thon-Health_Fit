@@ -24,6 +24,6 @@ orgainsed by ECE Society of BIT Mesra
 5. At the end, we also analyse our model using confusion matrix.
 ### Team Contributors:
 Anisha Agarwal -
-https://github.com/anishaagarwal2002
+github.com/anishaagarwal2002
 
 Himaangi Moyal -
